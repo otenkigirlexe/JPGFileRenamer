@@ -12,7 +12,7 @@
 
 ### Download⚡
 
-<a href="https://github.com/otenkigirlexe/IconWallpaperGenerator/archive/refs/tags/v1.0.0.zip">IconWallpaperGenerator</a>
+<a href="https://github.com/otenkigirlexe/JPGFileRenamer/releases/download/v1.0.0/JPGFileRenamer.ps1">JPGFileRenamer.ps1</a>
 
 ### How to use🤗
 
